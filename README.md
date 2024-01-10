@@ -115,5 +115,19 @@ Dejo el video proporcionando una explicacion basica del proyecto, y el funcionam
 
 Enlace para descarga de los archivos JSON https://drive.google.com/drive/folders/1VUSnjqYKaTzJ24kreKPwDhcEiu-_6IPG
 <br/>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+# Autor:
+***Ana Florencia Sandoval López***
+
+*Opciones de contacto*
+
+
++ [https://github.com/Fsando1993]
+
+* # video
++ [Video]
+
++ [Linkedin](https://www.linkedin.com/in/ana-florencia-sandoval-876615286/)
 
