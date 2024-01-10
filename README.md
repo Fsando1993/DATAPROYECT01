@@ -1,5 +1,5 @@
 <h2 align="center"> Proyecto-ML-STEAM </h2>
-![Uploading image.png…]()
+![image](https://github.com/Fsando1993/DATAPROYECT01/assets/137431648/d69201ef-3caf-48b2-9b68-b9fe934d1dae)
 
 
 
