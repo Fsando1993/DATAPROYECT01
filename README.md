@@ -1,5 +1,7 @@
 <h2 align="center"> Proyecto-ML-STEAM </h2>
-![image](https://github.com/Fsando1993/DATAPROYECT01/assets/137431648/d69201ef-3caf-48b2-9b68-b9fe934d1dae)
+
+![image](https://github.com/Fsando1993/DATAPROYECT01/assets/137431648/f5785d77-6e65-4759-8e0c-8d81cbcc4820)
+
 
 
 
