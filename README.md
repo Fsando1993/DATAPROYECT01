@@ -105,3 +105,15 @@ Monitoreo y Mantenimiento: Se probaron tanto el modelo como los endpoints para c
 ## Video
 
 Dejo el video proporcionando una explicacion basica del proyecto, y el funcionamiento de los endpoints
+
+
+## **Fuente de datos**
+
++ [Dataset](https://drive.google.com/drive/folders/1HqBG2-sUkz_R3h1dZU5F2uAzpRn7BSpj): Carpeta con el archivos que requerian ser procesador , 
++ [Diccionario de datos](https://docs.google.com/spreadsheets/d/1-t9HLzLHIGXvliq56UE_gMaWBVTPfrlTf2D9uAtLGrk/edit?usp=drive_link): Diccionario con algunas descripciones de las columnas disponibles en el dataset.
++ Para poder correr el primer arhcivo que carga los JSON, los transforma y crea los datasets limpios (1-ETL-EDA.ipynb) hay que descargar los JSON que contiene la informacion en bruto del proyecto y colocarlo dentro de la carpeta del proyecto.
+
+Enlace para descarga de los archivos JSON https://drive.google.com/drive/folders/1VUSnjqYKaTzJ24kreKPwDhcEiu-_6IPG
+<br/>
+
+
