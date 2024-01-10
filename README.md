@@ -74,7 +74,7 @@ Estableceremos una infraestructura de MLOps para navegar sin problemas por todas
 
 En esta fase del proyecto, se llevaron a cabo las siguientes actividades:
 
-Extracción de Datos (Extract): Se Extrageron los datos que nos proporcionaron en Formato JSON. Son 3 bases con informacion de los juegos de Steam, Reviews y datos de usuarios.
+Extracción de Datos (Extract): Se Extrajeron los datos que nos proporcionaron en Formato JSON. Son 3 bases con informacion de los juegos de Steam, Reviews y datos de usuarios.
 
 Transformación de Datos (Transform): Los datos fueron procesados y transformados para asegurar la coherencia y la integridad. Esto incluyó la limpieza de datos, la estandarización de formatos, tipos de datos y la manipulación de variables para prepararlos para el análisis.
 
